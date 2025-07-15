@@ -21,19 +21,8 @@ It visualizes planets orbiting the Sun with realistic textures, orbit paths, hov
 
 ## 📁 Folder Structure
 
-solar-system/
-├── index.html
-├── textures/
-│ ├── sun.jpg
-│ ├── mercury.jpg
-│ ├── venus.jpg
-│ ├── earth.jpg
-│ ├── mars.jpg
-│ ├── jupiter.jpg
-│ ├── saturn.jpg
-│ ├── uranus.jpg
-│ ├── neptune.jpg
-│ └── stars.jpg
+solar-system/index.html
+textures/sun.jpg, mercury.jpg,venus.jpg,earth.jpg, mars.jpg, jupiter.jpg,saturn.jpg,uranus.jpg, neptune.jpg,stars.jpg
 
 Make sure all texture images are inside the `textures/` folder, and use **local server** to avoid CORS errors.
 
